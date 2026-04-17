@@ -161,12 +161,6 @@ python app/main.py --input path_to_image
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
-
 ## 👨‍💻 Author
 
 Deepak
